@@ -1,7 +1,8 @@
 ### Olá! Sou Aline 👋
 <!--- <img align="right" alt="Aln" height="100" width="90" src="https://cdn.discordapp.com/attachments/857374959750742028/872634516966084608/me.png"> -->
-- 🌱 Estudante em Engenharia da Computação.
-- 📚 Interesse: Python, Django, Pandas. HTML, CSS.
+- 💻 Engenheira da Computação.
+- 🌱 Estudante de Engenharia de Dados.
+- 📚 Interesse: Python, Pandas, Django.
 
  <div>
   <a href="https://github.com/alnbastos">
